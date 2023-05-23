@@ -31,6 +31,8 @@
   [1. Project](#project)
   
 ### Project
+  ![](https://img.shields.io/badge/Project%20status-In%20action-green)
+  
   Описание задачи
 
   [Решение](ссылка)
