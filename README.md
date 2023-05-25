@@ -20,17 +20,15 @@
 ### Технологии
 
 ![](https://img.shields.io/badge/-Python--3.11-blue)
-![](https://img.shields.io/badge/-Scikit--Learn-blue)
-![](https://img.shields.io/badge/pandas-blue)
-![](https://img.shields.io/badge/numpy-blue)
-![](https://img.shields.io/badge/matplotlib-blue)
-![](https://img.shields.io/badge/seaborn-blue)
+![](https://img.shields.io/badge/Keras-blue)
 
 ## Проекты
 
   [1. Project](#project)
   
 ### Project
+  ![](https://img.shields.io/badge/Project%20status-In%20action-green)
+  
   Описание задачи
 
   [Решение](ссылка)
