@@ -34,7 +34,6 @@
 
   [Решение](https://github.com/msavilov/Artificial_neural_network/blob/main/1_Convolutional_neural_network/convolutional_neural_network.ipynb)
   
-  [2. Convolutional_neural_network]()
   
 ### Recurrent_neural_network
   ![](https://img.shields.io/badge/Project%20status-In%20action-green)
