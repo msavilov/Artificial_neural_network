@@ -40,5 +40,5 @@
   
   Обучение рекуррентной нейросети.
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Introduction_to_neural_networks/blob/main/2_Recurrent_neural_network/recurrent_neural_network.ipynb)
 
