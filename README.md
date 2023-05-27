@@ -27,14 +27,13 @@
 
   [1. Convolutional_neural_network](#convolutional_neural_network)
   
-  [1. Recurrent_neural_network](#recurrent_neural_network)
+  [2. Recurrent_neural_network](#recurrent_neural_network)
   
 ### Convolutional_neural_network
   
   Обучение свёрточной сети для классификации изображений.
 
   [Решение](https://github.com/msavilov/Artificial_neural_network/blob/main/1_Convolutional_neural_network/convolutional_neural_network.ipynb)
-  
   
 ### Recurrent_neural_network
   
