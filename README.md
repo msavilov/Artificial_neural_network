@@ -20,6 +20,7 @@
 ### Технологии
 
 ![](https://img.shields.io/badge/-Python--3.11-blue)
+![](https://img.shields.io/badge/TensorFlow-blue)
 ![](https://img.shields.io/badge/Keras-blue)
 
 ## Проекты
