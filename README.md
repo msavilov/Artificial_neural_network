@@ -1,4 +1,4 @@
-# Artificial_neural_network
+# Introduction_to_neural_network
 ![](https://img.shields.io/badge/Project%20status-Done-green)
 
 ## Оглавление
