@@ -1,5 +1,5 @@
 # Artificial_neural_network
-![](https://img.shields.io/badge/Project%20status-In%20action-green)
+![](https://img.shields.io/badge/Project%20status-Done-green)
 
 ## Оглавление
 
@@ -36,9 +36,8 @@
   
   
 ### Recurrent_neural_network
-  ![](https://img.shields.io/badge/Project%20status-In%20action-green)
   
-  Обучение рекуррентной нейросети.
+  Применение рекуррентных нейросетей для решения проблем автоматической морфологической разметки (Part Of Speech Tagging).
 
   [Решение](https://github.com/msavilov/Introduction_to_neural_networks/blob/main/2_Recurrent_neural_network/recurrent_neural_network.ipynb)
 
